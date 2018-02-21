@@ -1,0 +1,34 @@
+#logo{
+    margin-left:auto;
+	margin-right:auto;
+	display: block;
+}
+
+#csvFileInput{
+
+  display:block; 
+  margin-bottom: 16px;
+  
+}
+#Search_Number{
+  
+  width: 100%;  
+  text-align: center;
+
+}
+
+#find_btn{
+
+  float: right; 
+  width: 25%;
+}
+#input_div{
+
+  overflow: hidden; 
+  padding-right:.1em";
+
+}
+
+
+
+
